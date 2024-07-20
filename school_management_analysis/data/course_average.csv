@@ -1,0 +1,11 @@
+course_id,course_name,course_lecturer,course_credit,course_average,rank
+EHIST59,Course_EHIST59,lecturer_EHIST59,3,61.41,1
+EHIST45,Course_EHIST45,lecturer_EHIST45,4,60.688,2
+EHIST93,Course_EHIST93,lecturer_EHIST93,5,60.606,3
+EHIST43,Course_EHIST43,lecturer_EHIST43,1,60.446,4
+EHIST28,Course_EHIST28,lecturer_EHIST28,1,59.902,5
+EHIST52,Course_EHIST52,lecturer_EHIST52,2,59.758,6
+EHIST96,Course_EHIST96,lecturer_EHIST96,4,59.68,7
+EHIST66,Course_EHIST66,lecturer_EHIST66,4,59.318,8
+EHIST56,Course_EHIST56,lecturer_EHIST56,5,58.646,9
+EHIST10,Course_EHIST10,lecturer_EHIST10,4,58.236,10
